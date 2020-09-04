@@ -1,0 +1,9 @@
+h1 {color: rgb(38, 0, 255)}
+p1 {text-align: justify;}
+ul {
+    list-style-type: none ;
+}
+.container {
+   display: inline;
+   text-align: right;
+}
