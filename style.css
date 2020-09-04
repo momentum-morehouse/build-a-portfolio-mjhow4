@@ -7,3 +7,7 @@ ul {
    display: inline;
    text-align: right;
 }
+p2 {
+    border-top: solid ;
+    border-block-color: black;
+}
